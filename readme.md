@@ -1,1 +1,1 @@
-https://kingamiko.github.io/goit-markup-hw-01/
+https://kingamiko.github.io/goit-markup-hw-02/
