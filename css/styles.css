@@ -181,3 +181,18 @@ body {
   background-color: var(--accent-color);
   color: #ffffff;
 }
+
+.component {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
+  color: var(--header-text-color);
+}
+
+.component-type {
+  font-size: 16px;
+  line-height: 2;
+  initial-letter: 0.03em;
+  color: var(--primary-text-color);
+}
