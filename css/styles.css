@@ -3,16 +3,18 @@
   --secondary-text-color: #ffffff;
   --accent-color: #2196f3;
   --header-text-color: #212121;
-  --primary-bgd-color: #e5e5e5;
+  --primary-bgd-color: #ffffff;
   --secondary-bgd-color: #2f303a;
   --third-bgd-color: #f5f4fa;
 }
 
 body {
   font-family: "Roboto", sans-serif;
-  color: var(--ptimary-text-color);
   font-size: 14px;
   line-height: 1.71;
+  letter-spacing: 0.03em;
+  color: var(--primary-text-color);
+  background-color: var(--primary-bgd-color);
 }
 
 .link {
@@ -58,7 +60,7 @@ body {
   color: var(--header-text-color);
   font-weight: 500;
   line-height: 1.17;
-  letter-spacing: 2%0.02em;
+  letter-spacing: 0.02em;
 }
 
 /*HERO*/
