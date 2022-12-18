@@ -88,6 +88,8 @@ body {
   text-align: center;
   color: var(--secondary-text-color);
   background-color: #2196f3;
+  /* w mokapie przycisk nie ma zaznaczonego wizualnie cursor: pointer, ale w wymaganiach do zadania jest napisane, zeby prycisk miały określoną taką wartość*/
+  cursor: pointer;
 }
 
 /*our advantages*/
@@ -159,6 +161,11 @@ body {
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
 }
+.contact-footer:hover,
+.contact-footer:focus,
+.contact-footer:active {
+  color: var(--accent-color);
+}
 
 /*portfolio CSS*/
 
@@ -193,6 +200,6 @@ body {
 .component-type {
   font-size: 16px;
   line-height: 2;
-  initial-letter: 0.03em;
+  letter-spacing: 0.03em;
   color: var(--primary-text-color);
 }
