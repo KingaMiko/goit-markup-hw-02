@@ -1,8 +1,8 @@
-Create a repository goit-markup-hw-02.
-Clone the created repository and copy the previous work files into it.
-Make HTML markup and styling for the homework #2 page.
-For image optimization, use squoosh.
-Set up GitHub Pages and add a link to the live page in the header of the GitHub repository.
+Create a repository goit-markup-hw-02.</br>
+Clone the created repository and copy the previous work files into it.</br>
+Make HTML markup and styling for the homework #2 page.</br>
+For image optimization, use squoosh.</br>
+Set up GitHub Pages and add a link to the live page in the header of the GitHub repository.</br>
 
 Criteria for work acceptance by the tutor
 
